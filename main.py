@@ -24,7 +24,7 @@ def question(thisdict):
         sym = get_list(thisdict[name])
         if flag:
             sym.remove(user_input)
-        print(sym)
+
 
 
 
